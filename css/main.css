@@ -1,0 +1,74 @@
+* {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+}
+.clr {
+  clear: both;
+}
+section {
+    padding: 60px 0;
+}
+
+section h2 {
+    text-align: center;
+    margin-bottom: 50px;
+}
+.section-divider {
+    margin: 50px 0;
+    border-top: 2px solid #EEE;
+    border-bottom: 2px solid white;
+}
+/*#logo, #slogan {
+    font-size: 38px;
+    margin-bottom: 0;
+    line-height: 30px;
+}
+#logo a {
+    color: black !important;
+    text-decoration: none;
+}
+#slogan {
+    font-size: 20px;
+    color: darkblue;
+}*/
+#intro {
+    background-color: lightblue;
+}
+#intro p.lead {
+    margin-top: 30px;
+}
+#services {
+  background-color: lightseagreen;
+}
+#services .span4 {
+    margin-bottom: 30px;
+}
+#services .span4 p, #services .span4 h4 {
+    text-align: center;
+}
+#projects {
+    background-color: whitesmoke;
+}
+#about {
+    background-color: wheat;
+}
+#contact {
+    background-color: lightgreen;
+}
+#contact .social, #contact h4.email {
+    text-align: center;
+}
+#contact .social a {
+    margin-right: 30px;
+}
+#contact .social a:last-child {
+    margin-right: 0;
+}
+#contact .social a:hover {
+    text-decoration: none;
+}
+footer {
+    background-color: black;
+    color: white;
+    text-align: center;
+}
